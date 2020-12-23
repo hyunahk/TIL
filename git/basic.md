@@ -39,7 +39,7 @@ $ git config user.email
 이메일 출력
 ```
 
-
+gmk
 
 
 ### 상태 점검
